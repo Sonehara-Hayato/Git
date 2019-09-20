@@ -5,7 +5,7 @@ public class Azechi{
     public int age;
 
     public Azechi(){
-        name = "ひも";
-        age = 10;
+        name = "??????";
+        age = 21;
     }
 }
