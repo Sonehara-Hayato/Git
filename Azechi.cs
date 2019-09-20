@@ -1,5 +1,5 @@
 public class Azechi{
-
+    
     public string name;
 
     public int age;
